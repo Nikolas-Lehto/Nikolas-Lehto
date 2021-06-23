@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nikolas-Lehto
+- 👀 I’m interested in python, html, javascript and css coding
+- 🌱 I’m currently learning python turtle's many possibilities
+- 📫 You can reach me in nikolas.lehto1@outlook.com
