@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikolas-Lehto
-- 👀 I’m interested in python, html, javascript and css coding
-- 🌱 I’m currently learning python turtle's many possibilities
-- 📫 You can reach me in nikolas.lehto1@outlook.com
+- 👋 Hi, I’m Nikolas Lehto
+- 👀 My laguages: Python, C#, JavaScript, HTML, CSS
+- 🌱 I’m currently learning python Machine Learning/AI
+- 📫 You can reach me in nikolas.lehto1@outlook.com or in Discord koodari.exe #2629
