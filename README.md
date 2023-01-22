@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nikolas Lehto
-- 👀 My laguages: Python, C#, bash, HTML, CSS i can also program with NODE.JS
-- 🌱 I’m currently learning bash
-- 📫 You can reach me with E-Mail: nikolas.lehto1@outlook.com or in Discord: @koodarimpi #2629
+- 👀 My laguages: Python, C#, HTML, CSS ant linux shell
+- 🌱 I’m currently learning to use linux better
+- 📫 You can reach me with E-Mail: nikolas.lehto1@outlook.com or in Discord: @koodarimpi#2629
