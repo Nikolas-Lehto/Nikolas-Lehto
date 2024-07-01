@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nikolas Lehto
-- 👀 My laguages: Python, Cython, C#, HTML, CSS and the linux shell
-- 🌱 I’m currently learning to crate and use AIs and Machine Learning
-- 📫 You can reach me with E-Mail: nikolas.lehto1@outlook.com or in Discord: @koodarimpi#2629
+- 👀 My laguages: Python, Cython, C#, HTML, CSS
+- 🌱 I’m currently learning to build applications as a full-stack developer
+- 📫 You can reach me with E-Mail: nikolas.lehto1@outlook.com or in Discord: @koodarimpi
