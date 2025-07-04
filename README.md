@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikolas Lehto
-- 👀 My laguages: Python, Cython, C#, HTML, CSS
+- 👋 Hi, I’m Nikolas Lehto, Koodarimpi or soko Ni, depending on where you met me.
+- 👀 My laguages are Python, Go and the web stuff + linux things (shells and such)
 - 🌱 I’m currently learning to build applications as a full-stack developer
-- 📫 You can reach me with E-Mail: nikolas.lehto1@outlook.com or in Discord: @koodarimpi
+- 📫 You can reach me by email at nikolas@testausserveri.fi or on Discord under @koodarimpi
