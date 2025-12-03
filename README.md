@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nikolas Lehto, Koodarimpi or soko Ni, depending on where you met me.
 - 👀 My laguages are Python, Go and the web stuff + linux things (shells and such)
-- 🌱 I’m currently learning to build applications as a full-stack developer
+- 🌱 I’m currently learning to be a better sysadmin
 - 📫 You can reach me by email at nikolas@testausserveri.fi or on Discord under @koodarimpi
